@@ -9,6 +9,7 @@
  * Reversability (can drive upside-down.)
  * Protective honeycomb armor on the rear (battle tested.)
  * Mounting point for an optional Arduino Nano.
+ * Hole in lid for easy access to power switch with a screwdriver.
 
  Known flaws:
  * The wheels fall off when hit hard enough.
@@ -18,6 +19,7 @@
  * Reduce space around wheels to prevent them from falling off.
  * Strenghten spinner weapon, especially against off-axis attacks.
  * Increase vehicle clearance to avoid getting stuck on debris.
+ * Make battery charge cable accessable without removing the lid.
 
  ## Parts
  * Bristol Bot Builder's ant-weight drive kit: https://shop.bristolbotbuilders.com/product/antkit/
