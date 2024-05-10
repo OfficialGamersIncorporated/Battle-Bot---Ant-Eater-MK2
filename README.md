@@ -1,7 +1,10 @@
 # BattleBot-AntEater-MK2
- A battle bot for combat robotics
+ A battle bot for combat robotics. Chassis created using FreeCAD 0.21.2
+
+ Download printable files from the [releases section](https://github.com/OfficialGamersIncorporated/BattleBot-AntEater-MK2/releases)
 
  Features:
+ * 3D printable.
  * Active horizontal spinner weapon.
  * Reversability (can drive upside-down.)
  * Protective honeycomb armor on the rear (battle tested.)
@@ -25,5 +28,5 @@
  5x 2.5M screws for holding the lid shut.
 
  ## Images
- [!](images/Robotfull.PNG)
- [!](images/RobotInternal.PNG)
+ ![image](images/Robotfull.PNG)
+ ![image](images/RobotInternal.PNG)
