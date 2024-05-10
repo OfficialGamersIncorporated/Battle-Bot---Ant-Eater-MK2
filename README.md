@@ -20,12 +20,12 @@
  * Increase vehicle clearance to avoid getting stuck on debris.
 
  ## Parts
- Bristol Bot Builder's ant-weight drive kit: https://shop.bristolbotbuilders.com/product/antkit/
- Bristol Bot Builder's ant-weight spinner electronics: https://shop.bristolbotbuilders.com/product/spinner/
- An Arduino Nano (optional.)
- 4x 1.6M screws for holding in the optional Arduino Nano.
- 2x 2M screws for holding in the switch.
- 5x 2.5M screws for holding the lid shut.
+ * Bristol Bot Builder's ant-weight drive kit: https://shop.bristolbotbuilders.com/product/antkit/
+ * Bristol Bot Builder's ant-weight spinner electronics: https://shop.bristolbotbuilders.com/product/spinner/
+ * An Arduino Nano (optional.)
+ * 4x 1.6M screws for holding in the optional Arduino Nano.
+ * 2x 2M screws for holding in the switch.
+ * 5x 2.5M screws for holding the lid shut.
 
  ## Images
  ![image](Images/Robotfull.PNG)
