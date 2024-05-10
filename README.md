@@ -28,5 +28,5 @@
  5x 2.5M screws for holding the lid shut.
 
  ## Images
- ![image](images/Robotfull.PNG)
- ![image](images/RobotInternal.PNG)
+ ![image](Images/Robotfull.PNG)
+ ![image](Images/RobotInternal.PNG)
